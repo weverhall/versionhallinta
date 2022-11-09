@@ -1,1 +1,3 @@
-# versionhallinta
+## git-harjoituksia
+
+Harjoitellaan branchien käyttöä
